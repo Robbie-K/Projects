@@ -7,3 +7,6 @@ Photo storing application UI design: https://drive.google.com/drive/folders/138B
 
 Car dealership prototype proposal: https://drive.google.com/drive/folders/1U20hfLW5CDVJ99bilX1bXS5MUkSpQb6v?usp=sharing
 
+Library management system is the seng300LMS repo.
+
+Tower defense game is in the Java repo.
